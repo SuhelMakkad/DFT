@@ -118,11 +118,12 @@ footer a {
 }
 
 .default-drawings-wrapper {
-  margin-top: 1rem;
+  margin: 1rem 0;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .default-drawing-btn {
